@@ -77,6 +77,12 @@ header .container {
 header img {
   display: block;
   margin: 0 auto 20px;
+  width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
 }
 header .intro-text .name {
   display: block;
