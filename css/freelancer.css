@@ -331,14 +331,14 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #34495E; /* pickled bluewood */
   background: white;
   border: solid 2px white;
 }
 .btn-primary {
   color: white;
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #34495E;
+  border-color: #34495E;
   font-weight: 700;
 }
 .btn-primary:hover,
