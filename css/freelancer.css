@@ -326,7 +326,8 @@ footer .footer-below {
 }
 
 .email-btn:hover {
-    color: 34495E#; /* pickled bluewood */
+    color: #67809F; /* Loki */
+    background-color: #67809F;
 }
 .btn-outline {
   color: white;
