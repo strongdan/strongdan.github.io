@@ -30,7 +30,11 @@ h6 {
   font-weight: 400;
 }
 
-#about, #maincontent {
+#about {
+  color: #F2F1EF;
+}
+
+#maincontent {
   color: #BDC3C7; 
 }
 hr.star-light,
