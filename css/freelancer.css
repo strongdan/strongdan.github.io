@@ -29,6 +29,10 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
+
+#about, #maincontent {
+  color: #BDC3C7; 
+}
 hr.star-light,
 hr.star-primary {
   padding: 0;
