@@ -316,6 +316,9 @@ footer .footer-below {
 .email-btn {
   color: white;
 }
+.email-btn:hover {
+    color: 34495E#; /* pickled bluewood */
+}
 .btn-outline {
   color: white;
   font-size: 20px;
