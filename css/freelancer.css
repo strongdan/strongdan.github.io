@@ -315,7 +315,16 @@ footer .footer-below {
 
 .email-btn {
   color: white;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 20px;
+  line-height: 45px;
 }
+
 .email-btn:hover {
     color: 34495E#; /* pickled bluewood */
 }
